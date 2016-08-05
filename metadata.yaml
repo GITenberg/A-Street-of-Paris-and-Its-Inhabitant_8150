@@ -1,0 +1,56 @@
+_repo: A-Street-of-Paris-and-Its-Inhabitant_8150
+_version: 0.0.1
+alternative_title: Une rue de Paris et son habitant. English
+contributor:
+  illustrator:
+    agent_name: Courboin, François
+    alias: Courboin, Francois
+    birthdate: 1865
+    deathdate: 1926
+    gutenberg_agent_id: '2935'
+    url: http://www.gutenberg.org/2009/agents/2935
+  translator:
+    agent_name: Pène du Bois, Henri
+    aliases:
+    - Du Bois, Henri Pène
+    - Bois, Henri Pène du
+    - Pene du Bois, Henri
+    birthdate: 1858
+    deathdate: 1906
+    gutenberg_agent_id: '39675'
+    url: http://www.gutenberg.org/2009/agents/39675
+covers:
+- cover_type: archival
+  image_path: 8150/8150-h/images/titlepage3.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, Honore de
+    - De Balzac, Honoré
+    - Saint-Aubin, Horace de
+    - Balzac, H. de (Honoré de)
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: A Street of Paris and Its Inhabitant
+url: http://www.gutenberg.org/ebooks/8150
