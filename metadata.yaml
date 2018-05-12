@@ -1,5 +1,5 @@
 _repo: A-Street-of-Paris-and-Its-Inhabitant_8150
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Une rue de Paris et son habitant. English
 contributor:
   illustrator:
@@ -20,10 +20,8 @@ contributor:
     gutenberg_agent_id: '39675'
     url: http://www.gutenberg.org/2009/agents/39675
 covers:
-- cover_type: archival
-  image_path: 8150/8150-h/images/titlepage3.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -40,6 +38,8 @@ creator:
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8150#A-Street-of-Paris-and-Its-Inhabitant
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
